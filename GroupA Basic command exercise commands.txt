@@ -1,0 +1,14 @@
+pwd
+cd /var/log
+cd ..
+cd ../..
+ls
+ls -l
+ls -lar
+sudo su
+cd ~
+cd ..
+man ls
+cd /var
+ls -lSr /var
+uname -a
